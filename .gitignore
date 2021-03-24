@@ -1,2 +1,2 @@
-dist
+# dist # hack to get it to resolve NPM from git
 node_modules
